@@ -92,5 +92,3 @@ Works in all modern browsers supporting:
 - CSS Flexbox
 
 ---
-
-**Built with ❤️ in Vanilla JavaScript**
